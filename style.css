@@ -1,0 +1,46 @@
+@font-face {
+    font-family: raju;
+    src: url(./HelveticaNowDisplay-Medium_2wEhlmo-TD_wsqqEEwmJC.woff2);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+html , body {
+    height: 100%;
+    width: 100%;
+    
+}
+
+.main{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;  
+    /* y-axis k liye */
+    justify-content: space-around;
+    /* x-axis k liye */
+}
+
+  .box1{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.box2{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+}
+
+.box3{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+}
