@@ -21,26 +21,23 @@ html , body {
     width: 100%;
     background-color: black;
     display: flex;
+    
+}
+
+ .nav{
+    height: 80px;
+    width: 100%;
+    background-color: white;
+    display: flex;
     align-items: center;  
     /* y-axis k liye */
-    justify-content: space-around;
+    justify-content: center;
     /* x-axis k liye */
-}
+    gap: 50px;
+    font-family: raju;
+    font-weight: 200;
+ }
 
-  .box1{
-    height: 200px;
-    width: 200px;
-    background-color: red;
-}
-
-.box2{
-    height: 200px;
-    width: 200px;
-    background-color: green;
-}
-
-.box3{
-    height: 200px;
-    width: 200px;
-    background-color: white;
-}
+ .nav>h4{
+    font-size: 25px;
+ }
