@@ -281,4 +281,202 @@ html , body {
     color: white;
     background: royalblue;
  }
+
+
+ .center5{
+   display: flex;
+   
+   width: 100%;
+   height: 72%;
+   margin-top: 15px;
+   gap: 15px;
+}
+
+.center5>.part1{
+   text-align: center;
+   padding-top: 100px;
+   width: 50%;
+   height: 100%;
+   background-image: url(https://www.apple.com/v/home/ch/images/promos/icloud-plus/promo_icloud_plus__d4639vh3tz2a_medium.jpg);
+   background-position: center;
+   background-size: cover;
+   font-family: sf-pro;
+}
+
+.part1>h3{
+   font-size: 30px;
+   margin-bottom: 5px;
+}
+
+.part1>p{
+   font-size: 20px;
+   font-weight: 500;
+}
+
+.center5>.part2{
+  text-align: center;
+  padding-top: 70px;
+   width: 50%;
+   height: 100%;
+   background-image: url(https://www.apple.com/v/home/ch/images/promos/ipad-air/promo_ipad_air_avail__6i02t7nujr62_medium.jpg);
+   background-position: center;
+   background-size: cover;
+   font-family: sf-pro;
+}
+
+.part2>h3{
+   font-size: 40px;
+   margin-bottom: 5px;
+}
+
+.part2>p{
+   font-size: 20px;
+   font-weight: 500;
+}
+
+ .center5>.part1>button{
+    margin-top: 20px;
+    font-size: 17px;
+    color: white;
+    background-color: royalblue;
+    margin-right: 20px;
+    border: none;
+    padding: 13px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+ }
+
+ .center5 >.part1> .buy{
+    background: transparent;
+    border: 2px solid royalblue;
+    color: royalblue;
+ }
+
+.center5>.part1> .buy:hover{
+    color: white;
+    background: royalblue;
+ }
+
+
+  .center5>.part2>button{
+    margin-top: 20px;
+    font-size: 17px;
+    color: white;
+    background-color: royalblue;
+    margin-right: 20px;
+    border: none;
+    padding: 13px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+ }
+
+ .center5 >.part2> .buy{
+    background: transparent;
+    border: 2px solid royalblue;
+    color: royalblue;
+ }
+
+.center5>.part2> .buy:hover{
+    color: white;
+    background: royalblue;
+ }
+
+
+ .center6{
+   display: flex;
+   
+   width: 100%;
+   height: 72%;
+   margin-top: 15px;
+   gap: 15px;
+}
+
+.center6>.part1{
+   text-align: center;
+   padding-top: 100px;
+   width: 50%;
+   height: 100%;
+   background-image: url(https://www.apple.com/v/home/ch/images/promos/iphone-tradein/promo_iphone_tradein__bugw15ka691e_medium.jpg);
+   background-position: center;
+   background-size: cover;
+   font-family: sf-pro;
+}
+
+.part1>h3{
+   font-size: 30px;
+   margin-bottom: 5px;
+}
+
+.part1>p{
+   font-size: 20px;
+   font-weight: 500;
+}
+
+.center6>.part2{
+  text-align: center;
+  padding-top: 70px;
+   width: 50%;
+   height: 100%;
+   background-image: url(https://www.apple.com/v/home/ch/images/promos/apple-card/promo_apple_card__5cm7draujpey_medium.jpg);
+   background-position: center;
+   background-size: cover;
+   font-family: sf-pro;
+}
+
+.part2>h3{
+   font-size: 40px;
+   margin-bottom: 5px;
+}
+
+.part2>p{
+   font-size: 20px;
+   font-weight: 500;
+}
+
+ .center6>.part1>button{
+    margin-top: 20px;
+    font-size: 17px;
+    color: white;
+    background-color: royalblue;
+    margin-right: 20px;
+    border: none;
+    padding: 13px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+ }
+
+ .center6 >.part1> .buy{
+    background: transparent;
+    border: 2px solid royalblue;
+    color: royalblue;
+ }
+
+.center6>.part1> .buy:hover{
+    color: white;
+    background: royalblue;
+ }
+
+
+  .center6>.part2>button{
+    margin-top: 20px;
+    font-size: 17px;
+    color: white;
+    background-color: royalblue;
+    margin-right: 20px;
+    border: none;
+    padding: 13px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+ }
+
+ .center6 >.part2> .buy{
+    background: transparent;
+    border: 2px solid royalblue;
+    color: royalblue;
+ }
+
+.center6>.part2> .buy:hover{
+    color: white;
+    background: royalblue;
+ }
  
